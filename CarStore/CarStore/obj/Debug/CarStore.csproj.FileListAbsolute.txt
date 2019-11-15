@@ -1,0 +1,6 @@
+C:\Users\Andrei\Desktop\CarStore\CarStore\bin\Debug\CarStore.exe.config
+C:\Users\Andrei\Desktop\CarStore\CarStore\bin\Debug\CarStore.exe
+C:\Users\Andrei\Desktop\CarStore\CarStore\bin\Debug\CarStore.pdb
+C:\Users\Andrei\Desktop\CarStore\CarStore\obj\Debug\CarStore.csprojAssemblyReference.cache
+C:\Users\Andrei\Desktop\CarStore\CarStore\obj\Debug\CarStore.exe
+C:\Users\Andrei\Desktop\CarStore\CarStore\obj\Debug\CarStore.pdb
